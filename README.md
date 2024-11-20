@@ -1,7 +1,7 @@
 # By-D4rKCipherX
 BLUM TERMUX COMMANDS
 
-[h](#https://youtu.be/2gctbK2ZCiY?si=i9_2XasmBL7kFMRL)
+[TUTORIAL](https://youtu.be/2gctbK2ZCiY?si=i9_2XasmBL7kFMRL)
 ```
 pkg update && pkg upgrade y
 ```
