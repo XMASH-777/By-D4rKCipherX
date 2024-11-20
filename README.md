@@ -67,7 +67,7 @@ cd data
 ```
 nano users.txt
 ```
-
+....ໃສ່ໄອດີ ...
 ```
 npm install
 ```
